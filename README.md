@@ -2,4 +2,4 @@
 
 Protótipo de clone da tela da Netflix em HTML, CSS e JavaScript com Owl Carousel. 
 
-![Uploading Captura de Tela 2021-03-08 às 16.59.00.png…]()
+<img width="1275" alt="tela-netflix" src="https://user-images.githubusercontent.com/79066522/110359159-eaff3c00-801b-11eb-9419-b70badb20ecd.png">
